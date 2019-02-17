@@ -1,7 +1,7 @@
-v 0.0.0
-d 'SPIKE' 
+v 1.0
+d 'SPIKE': Stata module to allow for a zero willingness to pay
 d 
-d Distribution-Date: 
+d Distribution-Date: 20100217
 d License: MIT
 d 
 F src/m/ml_spike.ado
